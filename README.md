@@ -1,3 +1,4 @@
+<!--
 <table>
   <tr>
     <td>
@@ -17,7 +18,7 @@
   </tr>
 </table>
 
-
+https://spicetify.app/
 
 
 ### 📥 Automatic Installation
@@ -81,3 +82,5 @@ Go into your theme folder and open either :
 `color.ini` for the colors
 
 `user.css` to modify the code
+
+-->
